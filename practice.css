@@ -1,0 +1,22 @@
+body{
+    background-image:url("21349.gif");
+    background-position: 100%;
+    background-repeat: no-repeat; /* Prevents image repetition */
+    background-size: cover;
+}
+
+.body{
+    display: column;
+    text-align: center;
+    font-family: cursive;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px  black;
+}
+
+
+
+#increment-btn{
+    padding: 10px 10px;
+    color: black;
+    border-radius: 20px;
+}
