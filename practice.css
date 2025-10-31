@@ -19,4 +19,16 @@ body{
     padding: 10px 10px;
     color: black;
     border-radius: 20px;
+    background-color: red;
+    font-weight: 600;
+    
+}
+
+#save-btn{
+    padding: 10px 10px;
+    color: black;
+    border-radius: 20px;
+    background-color: green;
+    font-weight: 600;
+    
 }
